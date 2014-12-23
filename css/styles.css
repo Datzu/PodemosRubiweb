@@ -1,0 +1,188 @@
+body {
+    background-color: #612D62;
+    color: white;
+}
+
+#container {
+    margin: 0 auto;
+    width: 1024px;
+}
+
+#formDiv {
+    border: 1px solid;
+    padding: 30px;
+    width: 600px;
+    color: #E2B5DB;
+    background-image: url('../img/general/bgPodemosLogo.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#lopd {
+    font-size: 10px;
+    color: #6E6E6E;
+    font-family: Arial,Helvetica,sans-serif;
+    line-height: 1.8em;
+}
+
+#mainContainer {
+    margin-top: 10px;
+}
+
+#centerLeft {
+    float: left;
+    position: relative;
+    text-align: center;
+    width: 40px;
+}
+
+#centerCenter {
+    color: #612D62;
+    padding: 20px;
+    padding-top: 50px;
+    float: left;
+    min-width: 758px;
+    max-width: 758px;
+    position: relative;
+    background-color: #F2EDF2;
+    text-align: left;
+    min-height: 1360px;
+}
+
+#centerCenterBottom {
+    color: #612D62;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #F2EDF2;
+    float: left;
+    margin-left: 40px;
+    min-width: 798px;
+    max-width: 798px;
+}
+
+#centerRightBottom {
+    color: #612D62;
+    margin-top: 8px;
+    text-align: left;
+    float: left;
+    margin-left: 10px;
+    padding: 10px;
+    width: 150px;
+    background-color: #F2EDF2;
+    line-height: 1.8em;
+}
+
+#centerRight {
+    float: right;
+    position: relative;
+}
+
+#topTop {
+    min-height: 180px;
+    margin: 15px;
+}
+
+#top {
+    background-color: #F2EDF2;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#nav {
+    color: white;
+}
+
+#nav li {
+    display: inline-table;
+    padding: 13px;
+    text-align: center;
+}
+
+#nav ul li:hover {
+    background-color: #898989;
+}
+
+#nav ul li a {
+    text-decoration: none;
+}
+
+#nav ul li a:visited {
+    text-decoration: none;
+}
+
+#eventsTable {
+    border: 0px solid;
+}
+
+#eventsTable td {
+    border: 1px solid;
+    width: 80px;
+    text-align: center;
+    height: 50px;
+}
+
+.tdColor {
+    height: 32px;
+    width: 32px;
+    border: 2px solid;
+}
+
+.noDeco a {
+    text-decoration: none;
+}
+
+.noDeco {
+    text-decoration: none;
+}
+
+.bigLetters a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#centerCenterBottom td {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#footerTdColaboration {
+    background-color: #612D62;
+    color: white;
+    padding: 10px;
+}
+
+#footerTdColaboration a {
+    text-decoration: none;
+}
+
+#footerTdColaborationInside {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: green;
+}
+
+#staffImg td img {
+    width: 100px;
+    height: 100px;
+}
+
+.red {
+    color: red;
+}
+
+#secretaryTable td {
+    text-align: center;
+}
+
+.defaultHr {
+    color: #612D62;
+    background-color: #612D62;
+    height: 3px;
+}
+
+a {
+    color: #612D62;
+}
